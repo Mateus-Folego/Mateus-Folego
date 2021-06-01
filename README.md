@@ -13,7 +13,7 @@
 
 <br>
 
-# 🌐 Follow me 👇
+# 🌐 Contact me 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Folego-4f86ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-silva-folego260601/)](https://www.linkedin.com/in/mateus-silva-folego260601/) [![Gmail Badge](https://img.shields.io/badge/-mateussilvafolego26@gmail.com-f24f4f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateussilvafolego26@gmail.com)](mailto:mateussilvafolego26@gmail.com)
 
 <br>
