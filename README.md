@@ -3,7 +3,7 @@
 ### 👦 I'm a student at FATEC college of Mauá, Brazil
 ### 🌎 I was born in Santo André, Brazil
 ### 👨🏽‍💻 I'm passionate about any type of technology 
-### 🎯 My goal is to be a WEB Full Stack developer
+### 🎯 My goal is to work as an Azure cloud Administrator
 
 <br>
 
